@@ -1,4 +1,4 @@
-# Website Pelestarian Lingkungan
+# Website Edukasi Lingkungan
 
 Website ini dibuat sebagai media belajar yang mengedukasi pengguna tentang pentingnya pelestarian lingkungan. Website ini menggunakan berbagai fitur interaktif untuk memberikan pengalaman yang informatif dan menarik bagi pengguna.
 
