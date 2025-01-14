@@ -10,25 +10,22 @@
     background-color: #145a32;
   }
 
-  /* Warna latar belakang hijau muda */
 .bg-light-green {
-  background-color: #e9f7e9; /* Hijau muda */
-  color: #333; /* Warna teks gelap untuk kontras */
+  background-color: #e9f7e9;
+  color: #333;
 }
 
-/* Alternatif warna hijau muda lainnya */
 .bg-alt-green {
   background-color: #d4edda;
   color: #333;
 }
 
-/* Tambahan padding untuk area */
 .section-padding {
   padding: 50px 0;
 }
 
 .card {
-  height: 100%; /* Pastikan semua card memiliki tinggi sama */
+  height: 100%;
 }
 
 .card-body {
